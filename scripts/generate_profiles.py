@@ -323,7 +323,7 @@ class ProfileGenerator:
         </div>
         
         <div class="back-link">
-            <a href="../index.html">← Back to Vault Index</a>
+            <a href="../../index.html">← Back to Vault Index</a>
         </div>
     </div>
 </body>
