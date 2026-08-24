@@ -1,0 +1,17 @@
+.gitignore
+node_modules/
+*.pyc
+__pycache__/
+.DS_Store
+.env
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.pytest_cache/
+.coverage
+dist/
+build/
+*.egg-info/
